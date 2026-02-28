@@ -13,6 +13,7 @@
 ### AI Legal Guardian for Financial Agreements
 
 **Live App: [https://finguard-4dacc.web.app](https://finguard-4dacc.web.app)**
+**Video Youtube Link: [https://youtu.be/zlv5PPr6w5I](https://youtu.be/zlv5PPr6w5I)**
 
 </div>
 
