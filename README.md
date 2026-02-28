@@ -795,9 +795,9 @@ Individual borrowers are the current focus, but small business owners face the s
 
 **Live Application:** [https://finguard-4dacc.web.app](https://finguard-4dacc.web.app)
 
-**Demo Video:** *(YouTube link : to be added before submission)*
+**Demo Video:** *(YouTube link : [Youtube](https://youtu.be/zlv5PPr6w5I))*
 
-**GitHub Repository:** *(Link : to be added before submission)*
+**GitHub Repository:** *(Link : [GitHub Repo](https://github.com/HAIZ4D/finguard_AILegalGuardianForFinancialAgreement.git))*
 
 ---
 
